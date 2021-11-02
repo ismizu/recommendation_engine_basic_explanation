@@ -1,2 +1,2 @@
 # Machine Learning for Beginners: Recommendation Engines with Music
-Recommendation Engines explained in non-coding terms 
+This repository contains the minimal code utilized in [this blog post](https://ismizu.medium.com/machine-learning-for-beginners-recommendation-engines-with-music-de23905baca2).
